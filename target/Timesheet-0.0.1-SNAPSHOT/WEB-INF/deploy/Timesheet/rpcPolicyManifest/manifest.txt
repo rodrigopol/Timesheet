@@ -1,0 +1,3 @@
+# Module Timesheet
+# RPC service class, partial path of RPC policy file
+com.gft.timesheet.shared.TimeService, 76070995E60F3BAA98E8EB1169CBCB62.gwt.rpc

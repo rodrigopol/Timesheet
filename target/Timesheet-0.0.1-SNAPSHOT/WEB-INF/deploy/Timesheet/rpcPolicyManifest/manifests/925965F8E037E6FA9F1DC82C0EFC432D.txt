@@ -1,0 +1,2 @@
+serviceClass: com.gft.timesheet.shared.TimeService
+path: 76070995E60F3BAA98E8EB1169CBCB62.gwt.rpc

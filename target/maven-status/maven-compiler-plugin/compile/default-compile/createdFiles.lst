@@ -1,0 +1,14 @@
+com/gft/timesheet/client/AppController.class
+com/gft/timesheet/client/view/TimesView.class
+com/gft/timesheet/shared/TimeService.class
+com/gft/timesheet/client/presenter/Presenter.class
+com/gft/timesheet/shared/TimeServiceAsync.class
+com/gft/timesheet/client/presenter/TimesPresenter$Display.class
+com/gft/timesheet/client/AppController$1.class
+com/gft/timesheet/client/TimesheetEntryPoint.class
+com/gft/timesheet/shared/Time.class
+com/gft/timesheet/client/event/AddTimeEventHandler.class
+com/gft/timesheet/client/presenter/TimesPresenter$1.class
+com/gft/timesheet/client/presenter/TimesPresenter.class
+com/gft/timesheet/client/event/AddTimeEvent.class
+com/gft/timesheet/server/TimeServiceImpl.class
